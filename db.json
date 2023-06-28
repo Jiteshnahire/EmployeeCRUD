@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstname": "Rohit",
+      "lastname": "sharma",
+      "birthdate": "2022-06-14",
+      "gender": "m",
+      "education": "graduate",
+      "company": "skillmine",
+      "jobExperience": 4,
+      "salary": 5000,
+      "profile": "Profile-01.jpg",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
